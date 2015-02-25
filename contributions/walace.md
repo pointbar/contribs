@@ -1,4 +1,7 @@
-nce when I was a little boy I received as a gift a toy cement mixer. It was made of wood except for its wheels—axles—which, as I remember, were thin metal rods. I’m ninety per cent sure it was a Christmas gift. I liked it the same way a boy that age likes toy dump trucks, ambulances, tractor-trailers, and whatnot. There are little boys who like trains and little boys who like vehicles—I liked the latter.
+i# All That
+BY DAVID FOSTER WALLACE
+
+Once when I was a little boy I received as a gift a toy cement mixer. It was made of wood except for its wheels—axles—which, as I remember, were thin metal rods. I’m ninety per cent sure it was a Christmas gift. I liked it the same way a boy that age likes toy dump trucks, ambulances, tractor-trailers, and whatnot. There are little boys who like trains and little boys who like vehicles—I liked the latter.
 
 ![cement mixer toy](/packages/contribution/public/all_that_cement_mixer.png)
 
@@ -61,5 +64,4 @@ usually commanded by a lieutenant. Whereas I remember clearly that the hero, pla
 the enemy’s trench and falls on the grenade and dies saving the enemy platoon, and that much of the rest of the film (albeit constantly interrupted by commercials when I saw it) depicts the hero’s platoon struggling to interpret the action of their formerly beloved lieutenant, with many of them bitterly denouncing him as a traitor, many others holding that battle fatigue and a traumatic letter from “Stateside” received earlier in the film exculpated his act as a kind of temporary insanity,
 and only one shy, idealistic recruit (played by an actor I have never seen in another movie of that era) secretly believing that the lieutenant’s act of dying for the enemy was actually heroic and deserved to be recorded and dramatized for posterity (the shy, anonymous recruit is the narrator, in “voice-overs” at the film’s beginning and end), and I never forgot the movie (whose title both my father and I missed because we didn’t turn on the television until after the movie had begun, which
 is not the same as “forgetting” the title, which my father jokingly claims is what we both did) or the impact of the lieutenant’s act, which I, too (like the shy, idealistic narrator), regarded as not only “heroic” but also beautiful in a way that was almost too intense to bear, especially as I lay across my father’s knees.
-
 
