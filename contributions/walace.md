@@ -1,9 +1,9 @@
-i# All That
+# All That
 BY DAVID FOSTER WALLACE
 
 Once when I was a little boy I received as a gift a toy cement mixer. It was made of wood except for its wheels—axles—which, as I remember, were thin metal rods. I’m ninety per cent sure it was a Christmas gift. I liked it the same way a boy that age likes toy dump trucks, ambulances, tractor-trailers, and whatnot. There are little boys who like trains and little boys who like vehicles—I liked the latter.
 
-![cement mixer toy](/packages/contribution/public/all_that_cement_mixer.png)
+![cement mixer toy](https://dl.dropboxusercontent.com/u/16546438/tofs/wallace_cement_mixer.png)
 
 It was (“it” meaning the cement mixer) the same overlarge miniature as many other toy vehicles—about the size of a breadbox. It weighed three or four pounds. It was a simple toy—no batteries. It had a colored rope, with a yellow handle, and you held the handle and walked pulling the cement mixer behind you—rather like a wagon, although it was nowhere near the size of a wagon. For Christmas, I’m positive it was. It was when I was the age where you can, as they say, “hear voices” without
 worrying that something is wrong with you. I “heard voices” all the time as a small child. I was either five or six, I believe. (I’m not very good with numbers.)
