@@ -1,5 +1,5 @@
 # All That
-BY DAVID FOSTER WALLACE
+BY DAVID FOSTER [WALLACE](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
 
 Once when I was a little boy I received as a gift a toy cement mixer. It was made of wood except for its wheels—axles—which, as I remember, were thin metal rods. I’m ninety per cent sure it was a Christmas gift. I liked it the same way a boy that age likes toy dump trucks, ambulances, tractor-trailers, and whatnot. There are little boys who like trains and little boys who like vehicles—I liked the latter.
 
