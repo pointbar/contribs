@@ -1,48 +1,22 @@
 .contribution {
-  font-family: "Sentinel SSm A", "Sentinel SSm B", Palatino Linotype, Book Antiqua, Palatino, serif;
-  content: "medium";
-  margin: 0px auto;
-  box-sizing: border-box;
-  width: 605px;
-  display: block;
-  padding: 3rem 0px 10rem;
-  letter-spacing: 0.01rem;
-  color: rgba(0,0,0,0.7);
 }
 
 .contribution h1,
 .contribution h2,
 .contribution h3 {
-  font-family: 'Quattrocento Sans', sans-serif;
 }
 
 .contribution h1 {
-  font-size: 50.375rem;
-  line-height: 7rem;
-  margin-top: 3.5rem;
-  margin-bottom: 1.75rem;
   background-color: red;
 }
 
 .contribution h2 {
-  font-size: 3.25rem;
-  line-height: 3.5rem;
-  margin-top: 3.5rem;
-  margin-bottom: 1.75rem;
 }
 
 .contribution h3 {
-  font-size: 1.9375rem;
-  line-height: 3.5rem;
-  margin-top: 1.75rem;
-  margin-bottom: 1.75rem;
 }
 
 .contribution h4 {
-  font-size: 1.1875rem;
-  line-height: 1.75rem;
-  margin-top: 1.75rem;
-  margin-bottom: 1.75rem;
 }
 
 .contribution p,
@@ -51,35 +25,14 @@
 .contribution pre,
 .contribution table,
 .contribution blockquote {
-  margin-top: 1.75rem;
-  margin-bottom: 1.75rem;
-  font-size: 19px;
-  line-height: 1.473684211em;
 }
 
 .contribution img {
-  display: block;
-  vertical-align: middle;
-  padding: 4px;
-  max-width: 605px;
-  margin: 0.75rem 0;
-  line-height: 1.42857143;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  -webkit-transition: all .2s ease-in-out;
-  -o-transition: all .2s ease-in-out;
-  transition: all .2s ease-in-out;
 }
 
 .contribution a {
-  transition: all 200ms linear 0s;
-  border-bottom: 1px solid #DCB107;
-  color: #333;
-  text-decoration: none;
 }
 
 .contribution a:hover,
 .contribution a:focus {
-  border-bottom: 1px solid #927504;
-  background: #f9d236;
 }
