@@ -24,6 +24,7 @@
 .contribution pre,
 .contribution table,
 .contribution blockquote {
+  rgba(1, 5, 0, 1);
 }
 
 .contribution img {
