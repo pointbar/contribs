@@ -3,6 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: 'contributions'
+  siteurl: 'http://daktary.com/'
   media: 'media'
   metadata:
     contributions:
