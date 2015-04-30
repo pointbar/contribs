@@ -1,8 +1,14 @@
 ---
-published: true
-category: blog
 layout: blog
+category: blog
+published: true
 splash: "http://placehold.it/1600x500"
+title: Untitled
+author: Langlois
+tags: 
+  - agile
+  - collaboratif
+  - scopyleft
 ---
 
 Article about Plato
