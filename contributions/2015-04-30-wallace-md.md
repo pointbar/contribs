@@ -2,7 +2,7 @@
 layout: daktary/contribs/contributions
 category: blog
 published: false
-title: Wallace_.md
+title: wallace.md
 author: author
 ---
 
