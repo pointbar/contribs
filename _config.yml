@@ -2,7 +2,7 @@ baseurl: /starter
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: 'contributionss'
+  rooturl: 'contributions'
   siteurl: 'http://www.daktary.fr'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
