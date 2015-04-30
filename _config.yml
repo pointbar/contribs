@@ -1,6 +1,7 @@
 prose:
   rooturl: 'contributions'
   siteurl: 'http://www.daktary.com'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
