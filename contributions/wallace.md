@@ -1,3 +1,10 @@
+---
+published: true
+category: blog
+layout: blog
+splash: "http://placehold.it/1600x500"
+---
+
 # All That
 BY DAVID FOSTER [WALLACE](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
 
