@@ -2,7 +2,6 @@ Article about Plato
 ===================
 
 ![Plato by Raphael](https://farm4.staticflickr.com/3627/3482110989_e09271cca6_o.jpg)
-![01-screenshot.jpg](/media/01-screenshot.jpg)
 
 Plato (*/ˈpleɪtoʊ/*; Greek: Πλάτων Plátōn "broad" pronounced [plá.tɔːn] in Classical Attic; 428/427 or 424/423 – 348/347 BCE) was a _philosopher_, as well as _mathematician_, in Classical Greece. He is considered an essential figure in the development of philosophy, especially the Western tradition, and he founded the Academy in Athens, the first institution of higher learning in the Western world. Along with his teacher _Socrates_ and his most famous student, _Aristotle_, Plato laid the foundations of Western philosophy and science.[2] Alfred North Whitehead once noted: "the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."[3]
 
