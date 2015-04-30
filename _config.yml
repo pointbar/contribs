@@ -3,7 +3,6 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: 'contributions'
-  siteurl: 'http://www.daktary.fr'
   media: 'media'
   metadata:
     contributions:
@@ -14,16 +13,16 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "daktary/contribs/contributions"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "author"
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
           value: ""
       - name: "tags"
         field:
@@ -31,26 +30,13 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+            - name: "Agile"
+              value: "agile"
+            - name: "Collaboratif"
+              value: "collaboratif"
+            - name: "Scopyleft"
+              value: "scopyleft"
+            - name: "Meteor"
+              value: "meteor"
+            - name: "Lean"
+              value: "lean"
