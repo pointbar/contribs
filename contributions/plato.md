@@ -4,12 +4,10 @@ category: blog
 published: true
 splash: "http://placehold.it/1600x500"
 title: PLATO
-author: Stéphanie Lanois
+author: "Stéphane Langlois - Possum"
 tags: 
-  - agile
   - collaboratif
-  - scopyleft
-  - somalie
+  - lean
 ---
 
 Article about Plato
