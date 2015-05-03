@@ -4,11 +4,12 @@ category: blog
 published: true
 splash: "http://placehold.it/1600x500"
 title: PLATO
-author: Stéphane Langlois
+author: Stéphanie Lanois
 tags: 
   - agile
   - collaboratif
   - scopyleft
+  - somalie
 ---
 
 Article about Plato
