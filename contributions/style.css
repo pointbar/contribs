@@ -1,5 +1,12 @@
+---
+layout: daktary/contribs/contributions
+category: blog
+published: false
+author: author
+---
+
 .contribution {
-  background-color: snow;
+  background-color: #ccc;
 }
 
 .contribution h1,
