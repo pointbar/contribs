@@ -3,7 +3,7 @@ layout: daktary/contribs/contributions
 category: blog
 published: true
 title: dak
-author: author
+author: pntbr
 tags: 
   - collaboratif
   - meteor
