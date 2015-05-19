@@ -1,19 +1,8 @@
-baseurl: /starter
-permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: 'contributions'
   media: 'media'
   metadata:
     contributions:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "daktary/contribs/contributions"
       - name: "author"
         field:
           element: "text"
