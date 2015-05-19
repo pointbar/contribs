@@ -6,6 +6,7 @@ title: dak
 author: pntbr
 tags: 
   - collaboratif
+  - scopyleft
   - meteor
 ---
 
@@ -15,5 +16,3 @@ tags:
 Lorem
 
 ![swing.png](/media/swing.png)
-
-sss
