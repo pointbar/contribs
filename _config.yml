@@ -28,6 +28,7 @@ daktary:
     contribs: contribs.css
     contribsList: contribs-list.css
     nav: nav.css
+    reposList: repos-list.css
 
 prose:
   rooturl: 'contributions'
