@@ -25,7 +25,7 @@ daktary:
     folder: contributions
   
   ghCss:
-    contribs: contribs.css
+    ghContributionCss: contribs.css
     contribsList: contribs-list.css
     nav: nav.css
     reposList: repos-list.css
