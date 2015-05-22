@@ -29,6 +29,7 @@ daktary:
     contribsList: contribs-list.css
     nav: nav.css
     reposList: repos-list.css
+    mdMeta: md-meta.css
 
 prose:
   rooturl: 'contributions'
