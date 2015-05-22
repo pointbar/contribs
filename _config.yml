@@ -1,3 +1,29 @@
+daktary:
+  meta:
+    title: 'Daktary: A dead simple kind of blog'
+    description: 'For writers who want a very simple tool for writing and publishing her numerics contents, Daktary unlike to wordpress help us to keep focus and to present a readable contents for readers.'
+
+  ghRepos:
+  - label: pages pratiques
+    account: multibao
+    repo: contributions
+    folder: pages
+
+  - label: fiches multibao
+    account: multibao
+    repo: contributions
+    folder: contributions
+
+  - label: réseau transition
+    account: reseautransitionwb
+    repo: reseau_transition
+    folder: contributions
+
+  - label: démocratie ouverte
+    account: alecoz
+    repo: democratie_ouverte
+    folder: contributions
+
 prose:
   rooturl: 'contributions'
   media: 'media'
