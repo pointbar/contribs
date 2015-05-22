@@ -27,6 +27,7 @@ daktary:
   ghCss:
     contribs: contribs.css
     contribsList: contribs-list.css
+    nav: nav.css
 
 prose:
   rooturl: 'contributions'
