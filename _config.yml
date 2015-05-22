@@ -23,6 +23,9 @@ daktary:
     account: alecoz
     repo: democratie_ouverte
     folder: contributions
+  
+  ghCss:
+    contrib: contribs.css
 
 prose:
   rooturl: 'contributions'
