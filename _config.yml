@@ -25,7 +25,8 @@ daktary:
     folder: contributions
   
   ghCss:
-    contrib: contribs.css
+    contribs: contribs.css
+    contribs-list: contribs-list.css
 
 prose:
   rooturl: 'contributions'
