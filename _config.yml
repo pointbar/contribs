@@ -32,7 +32,7 @@ daktary:
     mdMeta: css/md-meta.css
 
 prose:
-  rooturl: 'contributions'
+  rooturl: 'exemples'
   media: 'media'
   metadata:
     contributions:
