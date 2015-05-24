@@ -1,3 +1,8 @@
+.container {
+  margin: 0px auto;
+  max-width: 620px !important;
+}
+
 .contrib-nav ul {
   position: fixed;
   margin: 0px;
