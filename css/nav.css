@@ -4,8 +4,8 @@
 }
 
 .contrib-nav ul {
-  position: absolute;
-  margin: 0px;
+  position: fixed;
+  margin: 0px -70px;
   display: block;
   float: left;
   list-style: outside none none;
