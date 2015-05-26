@@ -1,4 +1,5 @@
 daktary:
+  home: /daktary/contribs/examples
   meta:
     title: 'Daktary: A dead simple kind of blog'
     description: 'For writers who want a very simple tool for writing and publishing her numerics contents, Daktary unlike to wordpress help us to keep focus and to present a readable contents for readers.'
@@ -7,7 +8,7 @@ daktary:
   - label: daktary-contribs
     account: daktary
     repo: contribs
-    folder: exemples
+    folder: examples
 
   - label: Vincent Ferries
     account: vferries
@@ -32,7 +33,7 @@ daktary:
     mdMeta: css/md-meta.css
 
 prose:
-  rooturl: 'exemples'
+  rooturl: 'examples'
   media: 'media'
   metadata:
     contributions:
