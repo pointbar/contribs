@@ -3,6 +3,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+#iron-router-progress {
+    background-color : #92750;
+    box-shadow       : 0 0 5px #f9d236;
+}
+
 .container {
   margin: 0px auto;
   max-width: 620px !important;
