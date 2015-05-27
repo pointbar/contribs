@@ -5,7 +5,7 @@ body {
 
 #iron-router-progress {
     background-color : #92750;
-    box-shadow       : 0 0 5px #f9d236;
+    box-shadow       : 0 0 5px rgba(170, 242, 0, 0.5);
 }
 
 .container {
