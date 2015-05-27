@@ -12,6 +12,11 @@ body {
   max-width: 620px !important;
 }
 
+footer {
+  height: 3rem;
+}
+
+
 /*
   NAVIGATION CONTRIBUTIONS LIST AND CONTRIBUTION
 */
