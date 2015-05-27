@@ -25,13 +25,8 @@ daktary:
     repo: open_government
     folder: source
 
-  ghCss:
-    ghContributionCss: css/contribs.css
-    contribsList: css/contribs-list.css
-    nav: css/nav.css
-    reposList: css/repos-list.css
-    mdMeta: css/md-meta.css
-
+  css: daktary.css
+  
 prose:
   rooturl: 'examples'
   media: 'media'
