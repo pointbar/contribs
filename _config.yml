@@ -25,7 +25,7 @@ daktary:
     repo: open_government
     folder: source
 
-  dkCss: daktary.css
+  dkCss: css/daktary.css
   
 prose:
   rooturl: 'examples'
