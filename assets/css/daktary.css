@@ -81,7 +81,7 @@ footer {
 #contribution-list ul a:hover,
 #contribution-list ul a:focus {
   border-bottom: 1px solid #0067AF;
-  background: #26A7E0;
+  background: #EBF4F6;
 }
 
 /*
@@ -207,7 +207,7 @@ footer {
 #contribution a:hover,
 #contribution a:focus {
   border-bottom: 1px solid #0067AF;
-  background: #26A7E0;
+  background: #EBF4F6;
 }
 
 #contribution blockquote p {
