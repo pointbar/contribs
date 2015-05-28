@@ -9,7 +9,6 @@ body {
 
 .container {
   margin: 0px auto;
-  max-width: 620px !important;
 }
 
 footer {
@@ -90,6 +89,7 @@ footer {
 
 #gh-repo-list,
 #gh-repo-list {
+  max-width: 620px !important;
   font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
   font-size: .9rem;
   padding-top: 40px;
