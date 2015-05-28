@@ -73,15 +73,15 @@ footer {
 
 #contribution-list ul a {
   transition: all 200ms linear 0s;
-  border-bottom: 1px solid #DCB107;
+  border-bottom: 1px solid #1995D3;
   color: #333;
   text-decoration: none;
 }
 
 #contribution-list ul a:hover,
 #contribution-list ul a:focus {
-  border-bottom: 1px solid #927504;
-  background: #f9d236;
+  border-bottom: 1px solid #0067AF;
+  background: #26A7E0;
 }
 
 /*
