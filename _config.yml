@@ -16,9 +16,9 @@ daktary:
     folder: _posts
     branch: gh-pages
 
-  - label: Enfants dev
-    account: elefevre
-    repo: programmation-pour-les-enfants
+  - label: multibao
+    account: contributions
+    repo: contributions
 
   - label: Oreilly Open Gov
     account: oreillymedia
