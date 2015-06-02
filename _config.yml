@@ -17,13 +17,14 @@ daktary:
     branch: gh-pages
 
   - label: multibao
-    account: contributions
+    account: multibao
     repo: contributions
+    folder: contributions
 
-  - label: Oreilly Open Gov
-    account: oreillymedia
-    repo: open_government
-    folder: source
+  - label: Les traducteurs agiles
+    account: les-traducteurs-agiles
+    repo: les-traducteurs-agiles.github.io
+    folder: _posts
 
   dkCss: assets/css/daktary.css
   dkImgPath: assets/img
