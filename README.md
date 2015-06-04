@@ -1,3 +1,3 @@
 # Présentation
 
-[Visiter](http://pointbar/contribs/_config.yml)
+[Visiter](http://www.daktary.com/pointbar/contribs/_config.yml)
