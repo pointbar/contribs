@@ -1,20 +1,14 @@
 daktary:
-  home: /daktary/contribs/examples
+  home: /pointbar/daktary/examples
   meta:
-    title: 'Daktary: A dead simple kind of blog'
-    description: 'For writers who want a very simple tool for writing and publishing her numerics contents, Daktary unlike to wordpress help us to keep focus and to present a readable contents for readers.'
+    title: 'Blog de .|'
+    description: 'Blog personnel'
 
   ghRepos:
   - label: daktary-contribs
     account: daktary
     repo: contribs
     folder: examples
-
-  - label: Vincent Ferries
-    account: vferries
-    repo: blog
-    folder: _posts
-    branch: gh-pages
 
   - label: multibao
     account: multibao
