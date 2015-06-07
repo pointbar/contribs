@@ -10,10 +10,10 @@ daktary:
     repo: contribs
     folder: examples
 
-  - label: multibao
-    account: multibao
-    repo: contributions
-    folder: contributions
+  - label: pointbar
+    account: pointbar
+    repo: contribs
+    folder: examples
 
   - label: Les traducteurs agiles
     account: les-traducteurs-agiles
